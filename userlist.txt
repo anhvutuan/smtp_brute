@@ -1,14 +1,1 @@
-anhvt@flostage.com
-vobotheotrai@flostage.com
-thangdauhoi@flostage.com
-tuangiade@flostage.com
-khongxinh@flostage.com
-nguoidep@flostage.com
-khongbiet@flostage.com
-caigido@flostage.com
-congtran@flostage.com
-sec_brute_10@flostage.com
-sec_brute_12@flostage.com
-sec_brute_11@flostage.com
-caigido@flostage.com
-tranvanbay@flostage.com
+user@example.com
