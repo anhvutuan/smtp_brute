@@ -14,7 +14,7 @@ pip install colorama pyfiglet
 Chạy script:
 Để chạy script, bạn cần sử dụng lệnh python3 và cung cấp các đối số cần thiết. Dưới đây là cú pháp chung:
 
-####   python3 smtp-brute.py <mode> <wordlist> <user> <RHOST> <RPORT>
+####   python3 smtp-brute.py '<mode> <wordlist> <user> <RHOST> <RPORT>'
 
 ######   <mode>: Chế độ tấn công (userbrute hoặc passwordspray).
 ######   <wordlist>: Đường dẫn đến tệp chứa danh sách mật khẩu (hoặc người dùng nếu là chế độ passwordspray).
