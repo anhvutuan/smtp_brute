@@ -14,13 +14,13 @@ pip install colorama pyfiglet
 Chạy script:
 Để chạy script, bạn cần sử dụng lệnh python3 và cung cấp các đối số cần thiết. Dưới đây là cú pháp chung:
 
-##### python3 smtp-brute.py <mode> <wordlist> <user> <RHOST> <RPORT>
+####   python3 smtp-brute.py <mode> <wordlist> <user> <RHOST> <RPORT>
 
-###### <mode>: Chế độ tấn công (userbrute hoặc passwordspray).
-###### <wordlist>: Đường dẫn đến tệp chứa danh sách mật khẩu (hoặc người dùng nếu là chế độ passwordspray).
-###### <user>: Tên tài khoản người dùng (đối với chế độ userbrute).
-###### <RHOST>: Địa chỉ máy chủ SMTP.
-###### <RPORT>: Cổng SMTP.
+######   <mode>: Chế độ tấn công (userbrute hoặc passwordspray).
+######   <wordlist>: Đường dẫn đến tệp chứa danh sách mật khẩu (hoặc người dùng nếu là chế độ passwordspray).
+######   <user>: Tên tài khoản người dùng (đối với chế độ userbrute).
+######   <RHOST>: Địa chỉ máy chủ SMTP.
+######   <RPORT>: Cổng SMTP.
 Ví dụ sử dụng
 Giả sử bạn có một danh sách mật khẩu trong tệp passwordlist.txt, và bạn muốn thực hiện tấn công brute force trên máy chủ SMTP smtp.example.com qua cổng 465, đối với người dùng user@example.com. Bạn có thể chạy lệnh sau:
 
